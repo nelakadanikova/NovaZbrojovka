@@ -1,0 +1,65 @@
+License: License 1 user(s): David Straka
+Software Version: 7.1.3 pro 64bit
+Build Revision: 20932/6.2.12
+CPU Architecture: x86_64
+OS Version: Windows 11 Version 2009
+Kernel Type: winnt
+Kernel Version: 10.0.22631
+Environment Variables:
+=::=::\
+__PSLockDownPolicy=0
+ADSK_3DSMAX_x64_2021=C:\Program Files\Autodesk\3ds Max 2021\
+ADSK_3DSMAX_x64_2024=C:\Program Files\Autodesk\3ds Max 2024\
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\offic\AppData\Roaming
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=MNLT-WS-B-01
+ComSpec=C:\WINDOWS\system32\cmd.exe
+CUDA_CACHE_MAXSIZE=268435456
+DriverData=C:\Windows\System32\Drivers\DriverData
+EFC_2176=1
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+HOMEDRIVE=C:
+HOMEPATH=\Users\offic
+LOCALAPPDATA=C:\Users\offic\AppData\Local
+LOGONSERVER=\\MNLT-WS-B-01
+NUMBER_OF_PROCESSORS=32
+OneDrive=C:\Users\offic\OneDrive
+OS=Windows_NT
+Path=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Common Files\Autodesk Shared\;C:\Users\offic\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\offic\AppData\Local\Programs\Python\Python310\;C:\Users\offic\AppData\Local\Microsoft\WindowsApps;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PHX_FOR_3DSMAX2021_BIN=C:\Program Files\Chaos Group\Phoenix FD\3ds Max 2021 for x64/bin
+PHX_FOR_3DSMAX2021_STNDPLUGS=C:\Program Files\Chaos Group\Phoenix FD\3ds Max 2021 for x64/bin/plugins
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD
+PROCESSOR_LEVEL=25
+PROCESSOR_REVISION=2102
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+QT_D3DCREATE_MULTITHREADED=1
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\Users\offic\AppData\Local\Temp
+TMP=C:\Users\offic\AppData\Local\Temp
+USERDOMAIN=MNLT-WS-B-01
+USERDOMAIN_ROAMINGPROFILE=MNLT-WS-B-01
+USERNAME=offic
+USERPROFILE=C:\Users\offic
+VRAY5_FOR_3DSMAX2021_MAIN=C:\Program Files\Chaos Group\V-Ray\3ds Max 2021/bin
+VRAY5_FOR_3DSMAX2021_PLUGINS=C:\Program Files\Chaos Group\V-Ray\3ds Max 2021/bin/plugins
+VRAY_FOR_3DSMAX2021_PLUGINS=C:\Program Files\Chaos Group\Phoenix FD\3ds Max 2021 for x64/vray6plugins
+VRAY_FOR_3DSMAX2024_MAIN=C:\ProgramData\Autodesk\ApplicationPlugins\VRay3dsMax2024/bin
+VRAY_FOR_3DSMAX2024_PLUGINS=C:\ProgramData\Autodesk\ApplicationPlugins\VRay3dsMax2024/bin/plugins
+VRAY_MDL_PATH_3DSMAX2021=C:\Program Files\Chaos Group\V-Ray\3ds Max 2021\mdl
+VRAY_MDL_PATH_3DSMAX2024=C:\Program Files\Chaos Group\V-Ray\3ds Max 2024\mdl
+VRAY_OSL_PATH_3DSMAX2021=C:\Program Files\Chaos Group\V-Ray\3ds Max 2021\opensl
+VRAY_SEND_FEEDBACK=1
+windir=C:\WINDOWS
